@@ -105,7 +105,7 @@ html {
 }
 
 .menu-link:nth-child(1):hover {
-  background-color: #ee456f;
+  background:radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
 }
 
 .menu-link:nth-child(2):hover {
